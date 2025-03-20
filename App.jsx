@@ -29,6 +29,7 @@ const App = () => {
         <Link href="/profile">
           <Text style={{backgroundColor:'blue'}}>Profile Button Lol</Text>
           </Link>
+        //test
       </Pressable>
     </View>
   );
